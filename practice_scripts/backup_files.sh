@@ -64,4 +64,5 @@ if [[ $? -ne 0 ]]; then
   exit 1
 else
   echo "Backup successful: $BACKUP_DIRECTORY"
+  exit 0
 fi
