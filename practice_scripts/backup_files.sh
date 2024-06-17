@@ -66,3 +66,6 @@ else
   echo "Backup successful: $BACKUP_DIRECTORY"
   exit 0
 fi
+echo "============="
+echo "Finish script"
+echo "============="
